@@ -1,3 +1,1 @@
-I created a repo
-I forked a repo
-I did pull request
+"What I have learned from this course"
